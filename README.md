@@ -1,0 +1,4 @@
+pyrite
+======
+
+a toy cryptocurrency
